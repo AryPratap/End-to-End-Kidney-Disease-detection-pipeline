@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+![image](https://github.com/AryPratap/End-to-End-Kidney-Disease-detection-pipeline/assets/84611892/51384f6c-aeef-4126-ba71-57205a58edb2)<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h1 align="center"> End-to-End-Kidney-Disease-detection-pipeline</h1>
@@ -74,8 +74,9 @@ dvc init
 ```bash
 dvc repro
 ```
-- Track the pipeline through dvc.
+- Track the pipeline through dvc. The below image shows the pipeline dependencies. 
 ```bash
 dvc dag 
 ```
+![dvc](templates/dvc_pipeline.png)
 
