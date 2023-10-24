@@ -88,5 +88,6 @@ python app.py
 - After this copy the port link from the terminal to the browser.
 <br>
 <br>
-Below the demo of the flask prediction web app
+Below the demo of the flask prediction web app.
+<br>
 ![flask](templates/flaskapp.png)
