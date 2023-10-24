@@ -81,4 +81,12 @@ dvc dag
 ![dvc](templates/dvc_pipeline.png)
 
 ## Flask Web app for prediction
+- To launch the flask app, run the below command.
+```bash
+python app.py
+```
+- After this copy the port link from the terminal to the browser.
+<br>
+<br>
+Below the demon of the flask web app
 
