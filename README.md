@@ -80,3 +80,5 @@ dvc dag
 ```
 ![dvc](templates/dvc_pipeline.png)
 
+## Flask Web app for prediction
+
