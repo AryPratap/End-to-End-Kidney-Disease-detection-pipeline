@@ -1,4 +1,4 @@
-![image](https://github.com/AryPratap/End-to-End-Kidney-Disease-detection-pipeline/assets/84611892/51384f6c-aeef-4126-ba71-57205a58edb2)<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h1 align="center"> End-to-End-Kidney-Disease-detection-pipeline</h1>
