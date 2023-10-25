@@ -78,7 +78,8 @@ dvc repro
 ```bash
 dvc dag 
 ```
-![dvc](templates/dvc_pipeline.png)
+<img src="templates/dvc_pipeline.png" alt="DVC pipeline" width="400" height="300">
+
 
 ## Flask Web app for prediction
 - To launch the flask app, run the below command.
@@ -87,7 +88,6 @@ python app.py
 ```
 - After this copy the port link from the terminal to the browser.
 <br>
-<br>
 Below the demo of the flask prediction web app.
 <br>
-![flask](templates/flask.png)
+<img src="templates/flaskapp.png" alt="Image Description" width="800" height="400">
