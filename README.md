@@ -78,7 +78,7 @@ dvc repro
 ```bash
 dvc dag 
 ```
-![dvc](templates/dvc_pipeline.png)
+
 
 ## Flask Web app for prediction
 - To launch the flask app, run the below command.
@@ -90,4 +90,4 @@ python app.py
 <br>
 Below the demo of the flask prediction web app.
 <br>
-![flask](templates/flaskapp.png)
+
